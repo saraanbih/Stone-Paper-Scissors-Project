@@ -1,7 +1,3 @@
-Here’s a polished version of your README file for your GitHub project:
-
----
-
 # **Scissors, Paper, Stone Game**  
 
 This is my first project: **Scissors, Paper, Stone** — a fun game where you play against the computer! The outcome is based on the choices made by you and the computer.
