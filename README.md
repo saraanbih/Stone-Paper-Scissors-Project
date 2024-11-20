@@ -1,3 +1,7 @@
+Here’s the updated README file including the final results and points feature:
+
+---
+
 # **Scissors, Paper, Stone Game**  
 
 This is my first project: **Scissors, Paper, Stone** — a fun game where you play against the computer! The outcome is based on the choices made by you and the computer.
@@ -10,7 +14,19 @@ This is my first project: **Scissors, Paper, Stone** — a fun game where you pl
   1. **Scissors** beats **Paper** (Scissors cuts Paper).  
   2. **Paper** beats **Stone** (Paper wraps Stone).  
   3. **Stone** beats **Scissors** (Stone smashes Scissors).  
-- If both choose the same option, it's a tie!
+- If both choose the same option, it's a tie!  
+
+---
+
+## **Features**  
+1. **Visual Feedback**:  
+   To enhance the experience, I’ve added colors to indicate the result of each round:  
+   - **Green**: For a win.  
+   - **Red**: For a loss.  
+   - **Yellow**: For a draw.  
+
+2. **Final Results**:  
+   After playing multiple rounds, the game displays the **final results** and the **final points** earned by both you and the computer.
 
 ---
 
@@ -28,3 +44,4 @@ This project is a simple implementation of the game with logic to determine the 
 ## **Enjoy the Game!**  
 I hope you understand the general idea of this project. Run it and have fun! 🎉  
 
+Thank you for checking out my project! 😊  
