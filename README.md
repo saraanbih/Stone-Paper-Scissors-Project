@@ -1,7 +1,3 @@
-Here’s the updated README file including the final results and points feature:
-
----
-
 # **Scissors, Paper, Stone Game**  
 
 This is my first project: **Scissors, Paper, Stone** — a fun game where you play against the computer! The outcome is based on the choices made by you and the computer.
